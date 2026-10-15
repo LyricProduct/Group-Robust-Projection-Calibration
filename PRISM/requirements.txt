@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+tqdm
+ftfy
+regex
+Pillow
+wilds

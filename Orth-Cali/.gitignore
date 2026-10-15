@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.pkl
+*.csv
+*.out
+*.zip
+
+.vscode/
+
+Result/
+non_target_embeddings/
+target_embeddings/

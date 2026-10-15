@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.pkl
+*.csv
+*.npy
+*.out
+*.zip
+nohup.out
+
+.vscode/
+
+Result/
+results/
+models/
+embeddings/

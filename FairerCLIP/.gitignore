@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.pkl
+*.csv
+*.out
+*.zip
+
+.venv/
+.vscode/
+
+Result/
+features/
